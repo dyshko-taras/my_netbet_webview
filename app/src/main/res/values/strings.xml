@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">NetBet</string>
     <string name="loading">Loading ...</string>
+    <string name="up">UP</string>
+    <string name="left">LEFT</string>
+    <string name="pause">PAUSE</string>
+    <string name="right">RIGHT</string>
+    <string name="down">DOWN</string>
+    <string name="score">SCORE - 0</string>
+    <string name="new_game">New Game</string>
+    <string name="resume_game">Resume Game</string>
+    <string name="game_over_n_play_again">Game Over!\n Play Again?</string>
 </resources>
